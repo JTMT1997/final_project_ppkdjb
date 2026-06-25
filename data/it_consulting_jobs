@@ -1,0 +1,54 @@
+============================================================================================================================
+ID    | Title                        | Domain          | Skills (comma-separated)                          | Level        | Certifications                       | Typical Projects
+============================================================================================================================
+JOB-001 | Cloud Solutions Architect    | Cloud           | AWS, Azure, GCP, Terraform, Kubernetes, Docker    | Senior (8+)  | AWS CSA, Azure Solutions Architect  | Cloud migration, multi-cloud strategy
+JOB-002 | Data Engineer                | Data            | Python, SQL, Spark, Airflow, Kafka, AWS Redshift  | Mid (4-6)    | AWS Data Analytics, Databricks      | Data pipelines, ETL/ELT, lakehouse
+JOB-003 | Cybersecurity Consultant     | Security        | SIEM, Firewalls, IDS/IPS, ISO 27001, NIST         | Senior (7+)  | CISSP, CISM, CEH                    | Security audits, incident response
+JOB-004 | DevOps Engineer              | Cloud           | Jenkins, GitLab CI, Docker, Kubernetes, Ansible   | Mid (3-5)    | CKA, AWS DevOps Engineer            | CI/CD, container orchestration
+JOB-005 | AI/ML Consultant             | Data            | Python, TensorFlow, PyTorch, NLP, Computer Vision | Senior (6+)  | Google ML Engineer, AWS ML          | Predictive modeling, LLM fine-tuning
+JOB-006 | IT Strategy Consultant       | Consulting      | ITIL, COBIT, TOGAF, Stakeholder Management        | Senior (10+) | TOGAF, ITIL Expert                  | Digital transformation, EA
+JOB-007 | Full-Stack Developer          | Development     | React, Node.js, TypeScript, MongoDB, PostgreSQL   | Mid (3-6)    | AWS Developer (pref)                | Web apps, microservices
+JOB-008 | SAP Consultant               | Enterprise      | SAP FICO, MM, SD, ABAP, S/4HANA                   | Senior (7+)  | SAP Certified Application Associate | SAP implementation, rollouts
+JOB-009 | Salesforce Consultant         | CRM             | Sales Cloud, Service Cloud, Apex, LWC             | Mid (4-7)    | Salesforce Admin, Platform Dev I    | CRM customization, workflow auto
+JOB-010 | Network Architect            | Infrastructure  | Cisco, Juniper, BGP, OSPF, MPLS, SD-WAN          | Senior (8+)  | CCIE, JNCIE                         | Network design, WAN optimization
+JOB-011 | Business Intelligence Analyst | Data            | Power BI, Tableau, SQL, Excel, DAX                | Mid (2-5)    | PL-300, Tableau Specialist          | Dashboards, KPI reporting
+JOB-012 | RPA Consultant               | Automation      | UiPath, Automation Anywhere, Blue Prism, Python   | Mid (3-6)    | UiPath Certified Developer          | Process automation, bot deployment
+JOB-013 | Digital Workplace Consultant | Collaboration   | M365, SharePoint, Teams, Power Platform           | Senior (5-8) | M365 Enterprise Admin               | Intranet portals, adoption strategy
+JOB-014 | ERP Project Manager          | Consulting      | PMP, Agile, SAP/Oracle, Risk, Budgeting           | Senior (10+) | PMP, PRINCE2                        | ERP rollout, vendor management
+JOB-015 | Site Reliability Engineer    | Cloud           | Linux, Python, Go, Kubernetes, Istio, Grafana     | Senior (6+)  | CKA, AWS SysOps                     | System reliability, SLOs
+JOB-016 | Data Architect               | Data            | Data Modeling, Snowflake, BigQuery, SQL, ETL      | Senior (8+)  | CDMP, Snowflake Architect           | Enterprise data model, MDM
+JOB-017 | IAM Consultant               | Security        | Azure AD, Okta, SSO, MFA, LDAP, Active Directory  | Mid (4-7)    | CISSP, Okta Certified               | Identity lifecycle, PAM
+JOB-018 | Low-Code Developer           | Development     | Power Apps, OutSystems, Mendix, SQL, JavaScript   | Mid (2-5)    | Power Platform Developer            | Rapid app prototyping, legacy mod
+JOB-019 | Blockchain Consultant        | Emerging Tech   | Ethereum, Hyperledger, Solidity, Web3             | Senior (5+)  | Certified Blockchain Professional   | Supply chain traceability, DeFi
+JOB-020 | QA Automation Engineer       | Development     | Selenium, JUnit, TestNG, Cucumber, Jenkins        | Mid (3-6)    | ISTQB, Certified Agile Tester       | Automated regression, CI/CD gates
+JOB-021 | MuleSoft Integration Consultant | Integration  | MuleSoft, Anypoint, RAML, REST, SOAP, API Manager | Mid (4-6)    | MuleSoft Certified Developer        | API-led connectivity, integration
+JOB-022 | ServiceNow Consultant        | ITSM            | ServiceNow ITSM, ITOM, CSM, JavaScript            | Mid (3-6)    | ServiceNow Certified Sys Admin      | Service catalog, incident mgmt
+JOB-023 | Database Administrator       | Infrastructure  | Oracle, SQL Server, PostgreSQL, MongoDB, Tuning   | Senior (7+)  | OCP, Microsoft DBA                  | HA, backup/recovery, migration
+JOB-024 | Agile Coach                  | Consulting      | Scrum, Kanban, SAFe, JIRA, Facilitation           | Senior (8+)  | PSM III, SPC                        | Agile transformation, PI planning
+JOB-025 | Cloud Security Engineer      | Security        | AWS Security Hub, Azure Security Center, IAM, WAF | Senior (6+)  | CCSP, AWS Security Specialty        | Threat modeling, compliance monitoring
+JOB-026 | Mobile App Developer         | Development     | Flutter, React Native, Swift, Kotlin, Firebase    | Mid (3-5)    | Google Associate Android (pref)     | Cross-platform apps, app store
+JOB-027 | Data Scientist               | Data            | Python, R, SQL, Statistics, ML, A/B Testing       | Senior (5+)  | Kaggle (pref)                       | Predictive analytics, recommendations
+JOB-028 | VMware Consultant            | Infrastructure  | vSphere, vCenter, NSX, ESXi, SAN, DR              | Senior (7+)  | VCP, VCAP                           | Virtualization, capacity planning
+JOB-029 | Workday Consultant           | HR Systems      | Workday HCM, Payroll, Talent, Reporting           | Senior (5-8) | Workday Certified Professional      | HRIS implementation, compensation
+JOB-030 | Power Platform Consultant    | Collaboration   | Power Apps, Power Automate, Power BI, Dataverse   | Mid (3-6)    | PL-200, PL-600                      | Process automation, data viz
+JOB-031 | Hadoop/Spark Engineer        | Big Data        | Hadoop, HDFS, Spark, Scala, Hive, Kafka           | Senior (5+)  | Cloudera, Databricks Certified      | Batch processing, streaming
+JOB-032 | IT Risk Auditor              | Governance      | Risk Assessment, SOX, ISO 27001, GDPR, Internal Audit | Senior (6+) | CISA, CRISC                     | Risk reporting, controls testing
+JOB-033 | Node.js Backend Developer    | Development     | Node.js, Express, MongoDB, Redis, GraphQL         | Mid (3-5)    | None                                | RESTful APIs, real-time services
+JOB-034 | AR/VR Consultant             | Emerging Tech   | Unity, Unreal, C#, 3D, ARKit, ARCore              | Senior (5+)  | Unity Certified Developer           | Training simulations, metaverse
+JOB-035 | Atlassian Consultant         | Collaboration   | JIRA, Confluence, Bitbucket, Service Mgmt         | Mid (3-6)    | Atlassian Certified Professional    | Toolchain optimization, migration
+JOB-036 | Mainframe Modernization Consultant | Legacy    | COBOL, JCL, CICS, DB2, Cloud Migration            | Senior (10+) | IBM Certified Specialist            | Legacy migration, re-engineering
+JOB-037 | Edge Computing Engineer      | Infrastructure  | AWS IoT Greengrass, Azure IoT Edge, MQTT, Docker  | Senior (5+)  | AWS Certified IoT                   | IoT edge, real-time processing
+JOB-038 | Oracle Cloud Consultant      | Enterprise      | Oracle Cloud ERP, HCM, SCM, OCI, Integration      | Senior (7+)  | Oracle Cloud Certified              | Cloud implementation, financials
+JOB-039 | Penetration Tester           | Security        | Kali, Burp Suite, Metasploit, OWASP, Nmap         | Mid (3-6)    | OSCP, GPEN                          | Ethical hacking, red team
+JOB-040 | Workflow Automation Consultant | Automation    | Zapier, Make, Workato, Python, Webhooks           | Mid (2-5)    | None                                | Business process automation
+JOB-041 | Data Governance Lead         | Data            | Data Quality, Metadata, GDPR, CCPA, Collibra      | Senior (7+)  | CDMP, DAMA                          | Data lineage, compliance
+JOB-042 | React Native Mobile Developer| Development     | React Native, Redux, TypeScript, iOS/Android APIs | Mid (3-5)    | None                                | Cross-platform mobile apps
+JOB-043 | Dynamics 365 Consultant      | CRM/ERP         | Dynamics 365 Sales, Service, Power Apps, Plug-ins | Mid (4-7)    | MB-200, MB-400                      | CRM implementation, migration
+JOB-044 | Cloud Cost Optimization Specialist | Cloud       | AWS Cost Explorer, Azure Cost Mgmt, FinOps        | Senior (5+)  | AWS Practitioner, FinOps Certified  | Cost analysis, rightsizing
+JOB-045 | ETL Developer                | Data            | Informatica, Talend, SSIS, Python, SQL            | Mid (3-6)    | Informatica Certified               | Data extraction, scheduling
+JOB-046 | TIBCO Consultant             | Integration     | TIBCO EMS, BW, Spotfire, ActiveSpaces, SOA        | Senior (6+)  | TIBCO Certified                     | Enterprise integration, B2B
+JOB-047 | VDI Consultant               | Infrastructure  | Citrix, VMware Horizon, Azure Virtual Desktop     | Senior (5+)  | CCA-V, VCP-DTM                      | Virtual desktop deployment
+JOB-048 | AI Governance Consultant     | Governance      | AI Ethics, Model Explainability, Bias, GDPR, MLOps| Senior (7+)  | IAPP, Certified AI Governance       | Responsible AI, audit trails
+JOB-049 | Magento Developer            | Development     | PHP, Magento 2, Commerce Cloud, MySQL, Elasticsearch | Mid (3-6) | Adobe Certified Professional   | E-commerce, payment gateways
+JOB-050 | Telecom Network Consultant   | Infrastructure  | 5G, LTE, SDN, NFV, Cisco, Ericsson                | Senior (8+)  | CCNA, CCNP                          | Network transformation, 5G
+============================================================================================================================
